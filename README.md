@@ -1,2 +1,2 @@
-# medical_shop_managment_system
-Engineered an innovative software solution that transformed stock management, billing, and inventory processes, achieving a 50% reduction in processing time and ensuring accurate, centralized data accessibility for enhanced operational efficiency.
+# medical_shop_managment
+Implementing a cutting-edge software solution that revolutionized stock management, billing, and inventory processes, leading to a 50% decrease in processing time, while ensuring accurate and accessible centralized data.
